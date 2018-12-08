@@ -17,5 +17,4 @@ python3 eda.py
 python3 main.py
 
 
-Addtionally the pickle files are given in the Pickle Files folder
 
